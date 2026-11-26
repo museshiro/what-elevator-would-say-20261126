@@ -1,8 +1,8 @@
 # What the Elevator Would Say
 
-[![Competition](https://make.fun/api/competitions/u-eager-stork-81-9647-what-the-elevator-would-say-90844958/badge.svg)](https://make.fun/competitions/u-eager-stork-81-9647-what-the-elevator-would-say-90844958)
-[![Rank](https://make.fun/api/competitions/u-eager-stork-81-9647-what-the-elevator-would-say-90844958/rank.svg?repo=museshiro/what-elevator-would-say-20261126)](https://make.fun/competitions/u-eager-stork-81-9647-what-the-elevator-would-say-90844958)
-[![Reward](https://make.fun/api/competitions/u-eager-stork-81-9647-what-the-elevator-would-say-90844958/reward.svg?repo=museshiro/what-elevator-would-say-20261126)](https://make.fun/competitions/u-eager-stork-81-9647-what-the-elevator-would-say-90844958)
+[![Competition](https://make.fun/badge/u-eager-stork-81-9647-what-the-elevator-would-say-90844958.svg)](https://make.fun/competitions/u-eager-stork-81-9647-what-the-elevator-would-say-90844958)
+[![Rank](https://make.fun/badge/u-eager-stork-81-9647-what-the-elevator-would-say-90844958/museshiro/what-elevator-would-say-20261126/rank.svg)](https://make.fun/competitions/u-eager-stork-81-9647-what-the-elevator-would-say-90844958)
+[![Reward](https://make.fun/badge/u-eager-stork-81-9647-what-the-elevator-would-say-90844958/museshiro/what-elevator-would-say-20261126/reward.svg)](https://make.fun/competitions/u-eager-stork-81-9647-what-the-elevator-would-say-90844958)
 
 Entry for the [What the Elevator Would Say](https://make.fun/competitions/u-eager-stork-81-9647-what-the-elevator-would-say-90844958) bounty on make.fun.
 
